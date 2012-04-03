@@ -1,4 +1,5 @@
 // Array that holds all the directionButtons
+// I begin to fork this project and code
 var directionButtons = [];
 var image_W = 134 / 2;
 var image_H = 134 / 2;
