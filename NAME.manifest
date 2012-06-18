@@ -1,0 +1,34 @@
+CACHE MANIFEST
+
+# VERSION 0.1
+
+# 直接缓存的文件
+
+CACHE:
+index.html
+game.js
+css/add2home.css
+css/game.css
+image/
+image/bg.png
+image/bg2.png
+image/bg3.png
+image/btn1.png
+image/btn2.png
+image/fd_icon.png
+image/game.js
+image/good.png
+image/loading.gif
+image/login_bg.png*
+image/miss.png
+image/play_bg.png*
+image/play_spirit.png
+image/select_bg.png*
+image/start.png*
+image/wait.png
+libs/add2home.js*
+libs/iscroll.js*
+libs/magictouch.js*
+libs/music.json
+js/jq.mobi.min.js
+js/play.js
